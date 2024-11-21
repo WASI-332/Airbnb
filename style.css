@@ -1,0 +1,37 @@
+body{
+    font-family: Airbnb Cereal VF, Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+    font-size: 14px;
+    line-height: 1.43;
+    color: #222222;
+    background-color: #fff;
+    margin: 0;
+ }
+ .header{
+    align-items: center;
+ }
+
+ .top-head{
+     display: flex;
+     justify-content: space-between;
+    padding: 0px 40px;
+
+ }
+.btn{
+    background-color: #fff;
+    font-family: inherit;
+    color: #222222;
+    border: none;
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+    position: relative;
+    
+}
+
+.home{
+    text-decoration: none;
+    color: inherit;
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 18px;
+}
